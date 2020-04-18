@@ -15,6 +15,6 @@ public class Adder {
 	    int y = Input.get_int();
 	    
 	    // calculate sum for user
-	    System.out.println("sum is " + (x + y) + "\n");   
+		System.out.print("sum is " + (x + y) + "\n");
 	}
 }

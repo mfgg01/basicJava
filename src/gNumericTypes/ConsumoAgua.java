@@ -8,7 +8,7 @@ public class ConsumoAgua {
 
     {
         System.out.print("¿Cuántos minutos tardas en ducharte: ");
-        int m = Input.get_int();
-        System.out.print("Gastas " + (m*12) + " botellas de agua en tu ducha diaria." + "\n");
+        int min = Input.get_int();
+        System.out.print("Gastas " + (min*12) + " botellas de agua en tu ducha diaria." + "\n");
     }
 }
